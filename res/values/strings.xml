@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Sharks are mammals.</string>
+    <string name="question_2">Sea otters have a favorite rock they use to break open food.</string>
+    <string name="question_3">The blue whale is the biggest animal to have ever lived.</string>
+    <string name="question_4">The hummingbird egg is the world\'s smallest bird egg.</string>
+    <string name="question_5">Pigs roll in the mud because they don’t like being clean.</string>
+    <string name="question_6">Bats are blind.</string>
+    <string name="question_7">A dog sweats by panting its tongue.</string>
+    <string name="question_8">It takes a sloth two weeks to digest a meal.</string>
+    <string name="question_9">The largest living frog is the Goliath frog of West Africa.</string>
+    <string name="question_10">An ant can lift 1,000 times its body weight.</string>
+    <string name="question_11">When exiting a cave, bats always go in the direction of the wind.</string>
+    <string name="question_12">Galapagos tortoises sleep up to 16 hours a day.</string>
+
+</resources>
